@@ -5,7 +5,7 @@ Ferramentas Utilizadas:
 
 <li>Kali Linux</li>
 <li>setoolkit</li>
-<br>
+
 ## Proposta:
 <li>Capturar usuário/senha do facebook digitada pelo usuário</li>
 
