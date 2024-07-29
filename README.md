@@ -6,13 +6,12 @@ Ferramentas Utilizadas:
 <li>Kali Linux</li>
 <li>setoolkit</li>
 <br>
-Proposta:
-
+## Proposta:
 <li>Capturar usuário/senha do facebook digitada pelo usuário</li>
 
 ## Configuração do phishing (passo a passo)
 
-Abra o terminal no modo root
+<li>Abra o terminal no modo root</li>
 <li>Digite: setoolkit</li>
 <li>Escolha a opção 1 (Social-Engineering Atatacks)</li>
 <li>Escolha a opção 2 (Website Attack Vectors)</li>
